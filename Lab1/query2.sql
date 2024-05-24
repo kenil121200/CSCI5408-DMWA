@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS Count_of_movies_btw_1990_to_2000 FROM lab_1.movies WHERE year BETWEEN 1990 AND 2000;

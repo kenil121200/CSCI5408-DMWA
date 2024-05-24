@@ -1,0 +1,48 @@
+{
+  "lat": 44.6462,
+  "lon": -63.5736,
+  "timezone": "America/Halifax",
+  "timezone_offset": -10800,
+  "daily": [
+    {
+      "dt": 1655827200,
+      "sunrise": 1655800138,
+      "sunset": 1655856188,
+      "moonrise": 1655786400,
+      "moonset": 1655829840,
+      "moon_phase": 0.75,
+      "temp": {
+        "day": 12.95,
+        "min": 11.01,
+        "max": 14.56,
+        "night": 12.65,
+        "eve": 14.12,
+        "morn": 11.99
+      },
+      "feels_like": {
+        "day": 12.68,
+        "night": 12.22,
+        "eve": 13.68,
+        "morn": 11.75
+      },
+      "pressure": 1021,
+      "humidity": 91,
+      "dew_point": 11.33,
+      "wind_speed": 2.66,
+      "wind_deg": 1,
+      "wind_gust": 4.9,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 0.35,
+      "rain": 0.73,
+      "uvi": 4.11
+    }
+  ]
+}
